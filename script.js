@@ -1,1 +1,6 @@
 console.log("mehea le aane skyozo");
+
+const PiName = "Pi";
+const piVal = "3.14";
+
+console.log(`${PiName} value is: ${piVal}`);
